@@ -7,6 +7,10 @@ header{
 	background: #cee9c7;
 }
 
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
 .logo{
   display: block;
   margin-left: auto;
