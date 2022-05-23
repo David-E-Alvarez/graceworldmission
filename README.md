@@ -1,5 +1,7 @@
 ## Welcome to my [clone site](https://david-e-alvarez.github.io/graceworldmission/) for Grace World Mission: [site](https://graceworldmission.org/)
 
+<a target="_blank" href="https://david-e-alvarez.github.io/graceworldmission/" >clone site</a>
+
 
 
 You can use the [editor on GitHub](https://github.com/David-E-Alvarez/graceworldmission/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
