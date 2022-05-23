@@ -1,6 +1,6 @@
 ## Welcome to my [clone site](https://david-e-alvarez.github.io/graceworldmission/) for Grace World Mission: [site](https://graceworldmission.org/)
 
-<a target="_blank" href="https://david-e-alvarez.github.io/graceworldmission/" >clone site</a>
+<a href="https://david-e-alvarez.github.io/graceworldmission/" target="_blank">clone site</a>
 
 
 
