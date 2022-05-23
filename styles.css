@@ -34,3 +34,7 @@ li {
   justify-content: space-between;
   padding: 20px;
 }
+
+.menu{
+  display: flex;
+}
