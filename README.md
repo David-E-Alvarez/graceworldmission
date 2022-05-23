@@ -1,4 +1,4 @@
-## Welcome to my [clone site](https://david-e-alvarez.github.io/graceworldmission/ target="_blank) for Grace World Mission: [site](https://graceworldmission.org/)
+## Welcome to my [clone site](https://david-e-alvarez.github.io/graceworldmission/ target="_blank") for Grace World Mission: [site](https://graceworldmission.org/)
 
 
 
