@@ -37,10 +37,6 @@ li {
   justify-content: space-between;
 }
 
-.menu{
-  display: flex;
-  gap: 1em;
-}
 
 .about-us-dropdown{
   display: none;
