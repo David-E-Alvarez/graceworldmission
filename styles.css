@@ -35,6 +35,11 @@ li {
   padding: 20px;
 }
 
+.menu{
+  display: flex;
+  gap: 1em;
+}
+
 .about-us-dropdown{
   display: none;
 }
@@ -47,7 +52,3 @@ nav ul {
 }
 
 
-.menu{
-  display: flex;
-  gap: 1em;
-}
