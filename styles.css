@@ -46,11 +46,5 @@ li {
   display: none;
 }
 
-/*https://www.sitepoint.com/community/t/how-to-move-elements-on-nav-bar-to-center/285386/3*/
-nav ul {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
 
 
