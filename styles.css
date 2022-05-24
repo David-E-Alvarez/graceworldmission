@@ -33,12 +33,12 @@ li {
   padding: 20px;
   border-style: dotted;
   border-color: red;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .menu{
   display: flex;
-  align-items: center;
-  justify-content: space-between;
   gap: 1em;
 }
 
