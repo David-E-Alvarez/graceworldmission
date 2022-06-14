@@ -23,9 +23,6 @@ a{
   display: block;
 }
 
-li {
- list-style: none;
-}
 /*end of css borrowed*/
 
 /* continuing use of same site; "makeuseof" for nav styling*/
@@ -46,6 +43,10 @@ li {
   display: flex;
   justify-content: space-evenly;
 }
+
+li {
+  list-style: none;
+ }
 
 /* hides nested links */
 ul li ul li{
