@@ -3,9 +3,7 @@
 }
 header{
 	background: #cee9c7;
-	display: flex;
-  justify-content: space-between;
-	align-items: center;
+  overflow: hidden;
 
 }
 
