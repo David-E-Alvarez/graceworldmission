@@ -10,3 +10,10 @@
     border: 4px yellow solid;
 } */
 
+@media (max-width: 375px) {
+    /* … */
+    div ul li{
+        color: green;
+    }
+}
+
